@@ -1,2 +1,17 @@
 first update
 read me fool!
+
+
+CREATING A NEW TAG
+1) Open Perspective Git Repository Exploring
+2) Right click on Tags under project root directory
+3) Select Create Tag.. 
+4) Specify appropriate version number for name and description
+
+PUSHING TO REPOSITORY
+1) Open Perspective Git Repository Exploring
+2) Right click project and select Push...
+3) Click Next
+4) Click add all tags spec
+5) Click force update all specs (unless specifically omitting any tags)
+6) Click finish
